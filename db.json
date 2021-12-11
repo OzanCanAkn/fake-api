@@ -1,0 +1,56 @@
+[{
+    "tags": [
+      "Desk",
+      "Office",
+      "Laptop"
+    ],
+    "price": 10.99,
+    "name": "Rustic Office Shirt",
+    "description": "error distinctio minima tenetur nihil vero nostrum magni qui veniam dolorem iusto nostrum expedita",
+    "slug": "Rustic-Office-Shirt-1",
+    "added": 1483230128213,
+    "manufacturer": "Leannon-Fahey-and-Sawayn",
+    "itemType": "shirt"
+  },
+  {
+    "tags": [
+      "Pipe",
+      "Fog"
+    ],
+    "price": 16.99,
+    "name": "Practical Fog Shirt",
+    "description": "voluptas quia numquam nemo qui asperiores quo qui corrupti quae pariatur beatae expedita ut praesentium dignissimos",
+    "slug": "Practical-Fog-Shirt-1",
+    "added": 1484682964932,
+    "manufacturer": "Konopelski-Group",
+    "itemType": "shirt"
+  },
+  {
+    "tags": [
+      "Walrus",
+      "Animal"
+    ],
+    "price": 15.99,
+    "name": "Unbranded Animal Shirt",
+    "description": "est alias repudiandae modi soluta quisquam id in quia aut exercitationem",
+    "slug": "Unbranded-Animal-Shirt",
+    "added": 1478371623125,
+    "manufacturer": "Franecki---Gaylord",
+    "itemType": "shirt"
+  },
+  {
+    "tags": [
+      "Mountain",
+      "Snow",
+      "Fog"
+    ],
+    "price": 20.99,
+    "name": "Handmade Fog Shirt",
+    "description": "sunt fugiat labore sunt est suscipit ab eos praesentium ad aliquid rerum qui ut odio eveniet modi enim dignissimos repellendus temporibus dolorum odio ducimus",
+    "slug": "Handmade-Fog-Shirt-3",
+    "added": 1482749110863,
+    "manufacturer": "Feil-Dooley-and-Reinger",
+    "itemType": "shirt"
+  }
+]
+}
